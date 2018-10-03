@@ -68,7 +68,7 @@ class App extends Component {
 
   handleSelectColor = (color) => {
     this.setState({
-      color: color
+     color
     })
   }
 
